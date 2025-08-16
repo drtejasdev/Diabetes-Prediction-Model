@@ -1,2 +1,19 @@
 # Diabetes-Prediction-Model
-This project is built on **real-world health data from Tamil Nadu**.   The model predicts whether a patient is **Diabetic, Pre-Diabetic, or Non-Diabetic** based on health parameter ranges. Key Features: Provides personalized health tips based on prediction Uses **SHAP (Explainable AI)** to show which parameters have the most impact on the diagnosis
+
+This project predicts whether a patient is Diabetic, Pre-Diabetic, or Non-Diabetic based on health data.
+
+[Try the live app here](https://diabetes-prediction-model-kqghrenrxdyca2rwnbh4c6.streamlit.app/)
+
+## Files
+- Backend/
+- Diabetes Data.xlsx
+- PreDiabetes Data.xlsx
+- ML Model.ipynb
+- requirements.txt
+- random_forest_model.joblib
+
+## How to run
+...
+
+
+
