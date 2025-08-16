@@ -1,4 +1,4 @@
-[Click here to view the live demo!](https://diabetes-prediction-model-kqbhrenrxdyca2runbh4c6.streamlit.app/)
+(https://diabetes-prediction-model-kqghrenrxdyca2rwnbh4c6.streamlit.app/)
 
 
 
